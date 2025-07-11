@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning **Next.js, TypeScript, and Cloud Infrastructure**
 - 👯 I’m looking to collaborate on **open source projects and innovative startups**
 - 💬 Ask me about **React, Node.js, APIs, or any problem you’re stuck on!**
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: srikanthlomte72@gmail.com
 - ⚡ Fun fact: *I believe good coffee + clean code = happy life*
 
 ---
@@ -56,7 +56,7 @@
 
 ---
 
-⭐️ From [yourusername](https://github.com/SRIKANTHLOMTE)
+⭐️ From (https://github.com/SRIKANTHLOMTE)
 
 
 
