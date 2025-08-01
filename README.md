@@ -1,27 +1,31 @@
-### Hi there 👋
+### Hi there 👋  
 ![](https://pasteboard.co/VjaFKhxmdHxD.png)
 
-# <div align="center"> Hi <img src = "https://user-images.githubusercontent.com/78593368/119226953-4de77600-bb29-11eb-8d16-9479fa967348.gif" width="55px" height="55px"> I am Srikanth</div>
+# <div align="center">Hi <img src="https://user-images.githubusercontent.com/78593368/119226953-4de77600-bb29-11eb-8d16-9479fa967348.gif" width="55px" height="55px"> I am Srikanth</div>
+
 ## **About Me :** 👦
+
 ```javascript
 const srikanth = {
-    code: ["ReactJS", "Node.js", "Javascript", "MySQL"],
+    code: ["ReactJS", "Node.js", "JavaScript", "MySQL"],
     askMeAbout: ["web dev", "tech", "trending memes"],
     technologies: {
         backEnd: {
             js: ["Node", "Express", "JWT"],
         },
         frontEnd: {
-	    core: ["Javascript", "HTML", "C++"],
+            core: ["JavaScript", "HTML", "Python"],
             frameworks: ["ReactJS", "Next.js", "RadixUI"],
         },
-        databases: ["Mongo", "MySql"],
+        databases: ["MongoDB", "MySQL"],
         misc: ["Firebase", "Socket.IO", "MaterialUI", "ContextAPI"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "variable",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    architecture: ["Serverless Architecture", "Progressive Web Apps", "Single Page Applications"],
+    currentFocus: "Leveling up backend and testing skills",
+    funFact: "There are two ways to write error-free programs; only the third one works 😉",
+    problemSolving: "I enjoy solving problems and have a good grasp on DSA concepts."
 };
+
 ```
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 - 🔭 I’m currently working on something cool
