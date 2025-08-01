@@ -48,7 +48,5 @@ const srikanth = {
 
 ## **Reach out to me :** 📫
 `
-	[![Linkedin Badge](https://www.linkedin.com/in/srikanth-lomte-6a9974223/)
-	 [![Github Badge](https://img.shields.io/badge/-harshblip-black?style=flat&logo=github&logoColor=white&link=https://github.com/harshblip)](https://github.com/harshblip)
-  	[![Gmail Badge](https://img.shields.io/badge/-harshjipkate-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jipkateharsh@gmail.com)](mailto:jipkateharsh@gmail.com)
-   	[![Website Badge](https://img.shields.io/badge/-a.reum-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://bento.me/a-reum)](https://bento.me/a-reum)
+	[![Linkedin Badge](https://img.shields.io/badge/-harshjipkate-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harsh-jipkate/)](https://www.linkedin.com/in/srikanth-lomte-6a9974223/)
+	
