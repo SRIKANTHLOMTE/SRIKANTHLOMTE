@@ -48,5 +48,5 @@ const srikanth = {
 
 ## **Reach out to me :** 📫
 `
-	[![Linkedin Badge](https://img.shields.io/badge/-srikanth-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/srikanth/)](https://www.linkedin.com/in/srikanth-lomte-6a9974223/)
+	[![Linkedin Badge](https://img.shields.io/badge/-Linkdin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Linkdin/)](https://www.linkedin.com/in/srikanth-lomte-6a9974223/)
 	
