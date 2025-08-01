@@ -1,63 +1,54 @@
-# Hi there, I'm Srikanth 👋
+### Hi there 👋
+![](https://pasteboard.co/VjaFKhxmdHxD.png)
 
-![Profile Views]("117")
-![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)
+# <div align="center"> Hi <img src = "https://user-images.githubusercontent.com/78593368/119226953-4de77600-bb29-11eb-8d16-9479fa967348.gif" width="55px" height="55px"> I am Srikanth</div>
+## **About Me :** 👦
+```javascript
+const srikanth = {
+    code: ["ReactJS", "Node.js", "Javascript", "MySQL"],
+    askMeAbout: ["web dev", "tech", "trending memes"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Express", "JWT"],
+        },
+        frontEnd: {
+	    core: ["Javascript", "HTML", "C++"],
+            frameworks: ["ReactJS", "Next.js", "RadixUI"],
+        },
+        databases: ["Mongo", "MySql"],
+        misc: ["Firebase", "Socket.IO", "MaterialUI", "ContextAPI"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentFocus: "variable",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
+- 🔭 I’m currently working on something cool
+- 🌱 I’m currently learning Next.js, unit testing, Node.js
+- 👯 I’m looking to collaborate on FullStack/Backend Projects
+- 💬 Ask me about Fullstack developement
+## **Tech Stack :**
+<!-- -->
+`
+	![Javascript](https://img.shields.io/badge/javascript-%23F7B93E.svg?style=for-the-badge&logo=javascript&logoColor=white)
+	![MongoDB](https://img.shields.io/badge/mongodb-%2313aa52.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+	![Express](https://img.shields.io/badge/express-%230175C2.svg?style=for-the-badge&logo=express&logoColor=white)
+  	![React](https://img.shields.io/badge/react-%2345b8d8.svg?style=for-the-badge&logo=react&logoColor=white)
+	![Node.js](https://img.shields.io/badge/node.js-%2343853d.svg?style=for-the-badge&logo=node.js&logoColor=white)
+ 	![Firebase](https://img.shields.io/badge/firebase-%23F9A03C.svg?style=for-the-badge&logo=firebase&logoColor=white)
+	![Tailwind](https://img.shields.io/badge/tailwind-%2346a2f1.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+ 	![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+  	![Jest](https://img.shields.io/badge/jest-%23ea2845.svg?style=for-the-badge&logo=jest&logoColor=white)
+   	![Typescript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+	![Progressive Web Apps](https://img.shields.io/badge/pwa-%23311C87.svg?style=for-the-badge&logo=pwa&logoColor=white)
+ 	![Styled Components](https://img.shields.io/badge/styled-components-%23db7092.svg?style=for-the-badge&logo=styled-components&logoColor=white)
+  	![Figma](https://img.shields.io/badge/figma-%23E10098.svg?style=for-the-badge&logo=figma&logoColor=white)
+   	![Framer](https://img.shields.io/badge/framer-%23f446aa.svg?style=for-the-badge&logo=framer&logoColor=white)
 
-## 🚀 Full Stack Developer | 🧩 Problem Solver
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Problem+Solver;Lifelong+Learner;Tech+Enthusiast" alt="Typing SVG" />
-</p>
-
----
-
-### 💡 About Me
-
-- 🔭 I’m currently working on **awesome web and mobile projects**
-- 🌱 I’m currently learning **Next.js, TypeScript, and Cloud Infrastructure**
-- 👯 I’m looking to collaborate on **open source projects and innovative startups**
-- 💬 Ask me about **React, Node.js, APIs, or any problem you’re stuck on!**
-- 📫 How to reach me: srikanthlomte72@gmail.com
-- ⚡ Fun fact: *I believe good coffee + clean code = happy life*
-
----
-
-### 🛠️ Tech Stack
-
-**Frontend:** React, Next.js, HTML, CSS, JavaScript, TypeScript  
-**Backend:** Node.js, Express, Django  
-**Database:** MongoDB, PostgreSQL, MySQL  
-**DevOps:** Docker, AWS, Vercel  
-**Others:** Git, GitHub Actions, REST APIs, GraphQL
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="yourusername" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="yourusername" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="yourusername" />
-</p>
-
----
-
-### 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedin)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourtwitter)
-
----
-
-⭐️ From (https://github.com/SRIKANTHLOMTE)
-
-
-
-
+## **Reach out to me :** 📫
+`
+	[![Linkedin Badge](https://www.linkedin.com/in/srikanth-lomte-6a9974223/)
+	 [![Github Badge](https://img.shields.io/badge/-harshblip-black?style=flat&logo=github&logoColor=white&link=https://github.com/harshblip)](https://github.com/harshblip)
+  	[![Gmail Badge](https://img.shields.io/badge/-harshjipkate-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jipkateharsh@gmail.com)](mailto:jipkateharsh@gmail.com)
+   	[![Website Badge](https://img.shields.io/badge/-a.reum-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://bento.me/a-reum)](https://bento.me/a-reum)
